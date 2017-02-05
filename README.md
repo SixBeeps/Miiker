@@ -8,5 +8,6 @@ Installation is a pretty tough process, but it will eventually become automated.
 
 1. Make a folder in Program Files (C:/Program Files) and name it Miiker
 2. Put the Assets folder provided from this repository and put it in the new folder
+3. Download the Debug folder and put it anywhere.
 
-Now all you need to do is launch the executable.
+Now, launch Miiker.exe in the Debug Folder.
